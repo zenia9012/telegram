@@ -1,6 +1,6 @@
 {
     "name": "yevhenii/telegram",
-    "description": ":send telegram notification to telegram bot",
+    "description": ":send notification to telegram bot",
     "license": "MIT",
     "authors": [
         {
